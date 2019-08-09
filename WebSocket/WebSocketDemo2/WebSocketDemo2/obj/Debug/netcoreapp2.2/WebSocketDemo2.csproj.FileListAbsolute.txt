@@ -1,0 +1,14 @@
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\bin\Debug\netcoreapp2.2\WebSocketDemo2.deps.json
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\bin\Debug\netcoreapp2.2\WebSocketDemo2.runtimeconfig.json
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\bin\Debug\netcoreapp2.2\WebSocketDemo2.runtimeconfig.dev.json
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\bin\Debug\netcoreapp2.2\WebSocketDemo2.dll
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\bin\Debug\netcoreapp2.2\WebSocketDemo2.pdb
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.csprojAssemblyReference.cache
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.csproj.CoreCompileInputs.cache
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.RazorAssemblyInfo.cache
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.RazorAssemblyInfo.cs
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.AssemblyInfoInputs.cache
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.AssemblyInfo.cs
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.RazorTargetAssemblyInfo.cache
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.dll
+D:\DotNetCoreSample\WebSocketDemo2\WebSocketDemo2\obj\Debug\netcoreapp2.2\WebSocketDemo2.pdb

@@ -1,0 +1,14 @@
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\bin\Debug\netcoreapp2.2\QiNiuDemo.deps.json
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\bin\Debug\netcoreapp2.2\QiNiuDemo.runtimeconfig.json
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\bin\Debug\netcoreapp2.2\QiNiuDemo.runtimeconfig.dev.json
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\bin\Debug\netcoreapp2.2\QiNiuDemo.dll
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.csprojAssemblyReference.cache
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.csproj.CoreCompileInputs.cache
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.RazorAssemblyInfo.cache
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.RazorAssemblyInfo.cs
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.AssemblyInfoInputs.cache
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.AssemblyInfo.cs
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.RazorTargetAssemblyInfo.cache
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\bin\Debug\netcoreapp2.2\QiNiuDemo.pdb
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.dll
+D:\DotNetCoreSample\QiNiuDemo\QiNiuDemo\obj\Debug\netcoreapp2.2\QiNiuDemo.pdb
