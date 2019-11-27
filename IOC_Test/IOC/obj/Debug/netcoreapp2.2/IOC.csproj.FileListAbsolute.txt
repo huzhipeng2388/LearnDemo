@@ -1,0 +1,14 @@
+D:\DotNetCoreSample\IOC_Test\IOC\bin\Debug\netcoreapp2.2\IOC.deps.json
+D:\DotNetCoreSample\IOC_Test\IOC\bin\Debug\netcoreapp2.2\IOC.runtimeconfig.json
+D:\DotNetCoreSample\IOC_Test\IOC\bin\Debug\netcoreapp2.2\IOC.runtimeconfig.dev.json
+D:\DotNetCoreSample\IOC_Test\IOC\bin\Debug\netcoreapp2.2\IOC.dll
+D:\DotNetCoreSample\IOC_Test\IOC\bin\Debug\netcoreapp2.2\IOC.pdb
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.csprojAssemblyReference.cache
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.csproj.CoreCompileInputs.cache
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.RazorAssemblyInfo.cache
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.RazorAssemblyInfo.cs
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.AssemblyInfoInputs.cache
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.AssemblyInfo.cs
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.RazorTargetAssemblyInfo.cache
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.dll
+D:\DotNetCoreSample\IOC_Test\IOC\obj\Debug\netcoreapp2.2\IOC.pdb
